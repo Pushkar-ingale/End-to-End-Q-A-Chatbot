@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pipenv
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# pyenv
+.python-version
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Testing
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+test-results/
+
+# Data
+*.csv
+*.tsv
+*.dat
+*.tmp
+*.log
+
+# Environment variables
+.env
+.env.*
+venv/
+
+# Build artifacts
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled C extensions
+*.pyd
+
+# Docker
+*.dockerignore
+*.env.local
+.docker-compose.override.yml
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
